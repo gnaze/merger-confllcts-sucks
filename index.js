@@ -1,2 +1,2 @@
 var num = 8;
-var truth =""Hello World;
+var truth =""Hello flat word;
